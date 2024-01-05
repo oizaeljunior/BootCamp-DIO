@@ -32,6 +32,7 @@ git reset --soft codigo do commit
 git reflog
 git reset nome da pasta/nome do arquivo.md
 git push -u origin main
+git pull
 ```
 
 
