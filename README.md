@@ -14,27 +14,6 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 |Gravando Alterações no Repositório Local | [Resumos](https://github.com/oizaeljunior/BootCamp-DIO)|
 
 ## 🔠 Comandos
-```
-mkdir nome da pasta
-touch nome da pasta/nome do arquivo.md 
-cd nome do diretório/pasta 
-git init 
-git clone URL do repositório 
-git remote add origin URL do repositório 
-git add Nome do arquivo 
-git status 
-git commit -m"Nome do commit" 
-git log 
-rm -rf .git 
-git restore nome do arquivo 
-git commit --amend -m"Nome do commit" 
-git reset --soft codigo do commit 
-git reflog 
-git reset nome da pasta/nome do arquivo.md 
-git push -u origin main 
-git pull 
-```
-
 | Código | O que faz |
 |--------|-----------|
 | mkdir nome da pasta | (cria uma pasta) |
