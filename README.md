@@ -13,6 +13,23 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 |-------|---------|
 |Gravando Alterações no Repositório Local | [Resumos](https://github.com/oizaeljunior/BootCamp-DIO)|
 
+## ⚙ Configurando o Git
+```
+git config --global user.name "Nome do usuario"
+git config --global user.email email do usuario
+git config --global init.defaultBranch main
+
+AUTENTICAÇÃO VIA TOKEN
+
+- Criar um token no site do GitHub
+git clone URL do repositório
+- Digite o nome do usuario
+- Coloca o Token
+git config --global credential.helper store
+- Digite o nome do usuario
+- Coloca o Token
+```
+
 ## 🔠 Comandos
 | Código | O que faz |
 |--------|-----------|
@@ -51,3 +68,4 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 ## 🔍 Referências
 - [Referências do site Git com comandos e explicações](https://git-scm.com/docs)
+- [Inteligência Artificial Git](https://gitfluence.com/)
