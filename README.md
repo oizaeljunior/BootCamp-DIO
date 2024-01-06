@@ -67,5 +67,6 @@ git config --global credential.helper store
 | `git stash pop` | traz os arquivos e exclui as alterações mais recentes |  
 
 ## 🔍 Referências
-- [![Referências do site Git com comandos e explicações](https://git-scm.com/docs)]
-- [![Inteligência Artificial Git](https://gitfluence.com/)]
+- [Referências do site Git com comandos e explicações](https://git-scm.com/docs)
+- [Inteligência Artificial Git](https://gitfluence.com/)
+- [Sintaxe de Formatação de Texto](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
